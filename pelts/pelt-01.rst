@@ -45,7 +45,7 @@ Statuts des PELT
 
 * élaboration: on travaille encore à la rédaction
 * évaluation: en cours de décision
-* validée: doit entrer en vigeur
+* validée: doit entrer en vigueur
 * appliquée: est actuellement en vigueur
 * nulle: personne n'en a voulu sérieusement
 * caduque: a été appliquée mais n'est plus actuelle (dépassée, remplacée)
@@ -59,16 +59,16 @@ Décision
 #. En principe, une PELT n'est pas modifiée (avant vote), mais acceptée ou refusée!
 #. Si une PELT ne recueille aucun vote, ou aucun avis positif, dans un délai raisonnable, elle est déclarée nulle.
 #. Une PELT est validée si elle a un score positif et sans vote négatif. 
-#. En cas de score positif avec vote négatif (argumenté), le choix entre l'application ou la nullité est décité à la majorité simple.
+#. En cas de score positif avec vote négatif (argumenté), le choix entre l'application ou la nullité est décidé à la majorité simple.
 
 Possibilités de vote
 ====================
 
-Les contibuteurs peuvent exprimer les votes suivants:
+Les contributeurs peuvent exprimer les votes suivants:
 
 * +1: Je suis pour et je vais contribuer à l'application
 * +0: Je suis pour, mais je ne m'investirai pas
 * -0: Pas motivant, pas motivé, mais je vous laisse faire
-* -1: J'ai une oppsosition forte (qui doit être expliquée), presque un véto
+* -1: J'ai une opposition forte (qui doit être expliquée), presque un véto
 
 
